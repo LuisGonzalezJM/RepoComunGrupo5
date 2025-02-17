@@ -3,7 +3,7 @@
 
 public class FicheroBase1{
     public static void main(String[] args) {
-        /*Alberto*/
+        /*mainAlberto*/
         System.out.println("FicheroBase1");
     }
 }
