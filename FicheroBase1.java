@@ -5,5 +5,9 @@ public class FicheroBase1{
     public static void main(String[] args) {
         /*mainAlberto*/
         System.out.println("FicheroBase1");
+        //HOLA soy MAYKA y soy LUDOPATA
+        //Comentario mínimo del punto 9.
+
+
     }
 }
