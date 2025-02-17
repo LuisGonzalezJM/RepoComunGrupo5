@@ -1,3 +1,3 @@
 public class ClaseOLG {
-    /*El autor es Óscar Javier López Gómez*/
+    /*El autor de esta clase es Óscar Javier López Gómez*/
 }
